@@ -1,4 +1,4 @@
-````md
+```html
 <div align="center">
 
 # 🛒 Gerador de QR Code para E-commerce
